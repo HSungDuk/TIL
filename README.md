@@ -62,3 +62,5 @@ $ git push
 
 #### .gitignore 쉽게 작성하기
 
+
+수정
